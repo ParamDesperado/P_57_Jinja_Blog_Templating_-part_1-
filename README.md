@@ -2,16 +2,6 @@
 
 A dynamic blog website built using Python and Flask. This project fetches blog post data from an external JSON API and renders it using Jinja2 templates. It features a home page listing all posts and dynamic routing for individual article pages.
 
-## 📂 Project Structure
-
-day-57-solution-blog-templating-end/
-│
-├── static/              # CSS, JavaScript, and Image files
-├── templates/           # HTML Templates
-│   ├── index.html       # Home page template
-│   └── post.html        # Individual post template
-├── main.py              # Main Flask application and logic
-└── post.py              # Post class definition (Model)
 
 ## 🚀 Features
 
@@ -59,5 +49,5 @@ Contains the `Post` class, which initializes with:
 * `subtitle`
 * `body`
 
-## ℹ️ Context
-This project was created as part of the **100 Days of Code: The Complete Python Pro Bootcamp** (Day 57).
+## Author
+* Param Sangani
